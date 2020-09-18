@@ -130,29 +130,50 @@ In addition, LTSE owns and operates an exchange that can be broadly charactarize
 
 LTSE sits at the crossraods of financial technology, software, long-term sustainability, and securities exchanges. As such, there are a multitiude of trends and innovations that have disrupted the space. Below are four main areas that are believed to have played a major role in disrupting the financial industries LTSE play a role in.
 
+<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fsap%2Ffiles%2F2017%2F04%2FProfitability-and-Sustainability-04-10-2017-A-1200x802.jpg" alt="sustainable-investments" width="800">
+
 **Sustainability & ESGs**
 
-Sustainability and Carbon Footprints
+> "“For the first time since WWII we sense a shift in which climate and the environment — not growth — will become the priority of governments and their citizens, as shortages of food, clean water and air become existential questions,” Saxo Bank Chief Economist Steen Jakobsen said in his latest quarterly outlook report.[(7)](##-Appendix)
 
-Clean ETF's
+Across all asset classes, including equities, government bonds, ETFs (exchange-traded funds) and hedge funds, investors around the globe are demanding better options for socially and environmentally consious invemstments. Increasingly, awareness on climate issues coupled with progressing policy change around the world and green tech becoming increasily less expensive, makes sustainably built companies more attractive. 
 
-ESG's have exploded in the financial industry, with flows more than doubling in 2020 from $20 Billion to $42 Billion. Additionally, ESG's represent more than 20% of new flows going into equity ETFs for 2020, sor far.[(7)](##-Appendix)
+<details>
+<summary>Click the arrow for more ESG & sustainability data on each asset class.</summary>
+
+- **ETF's:** According to recent ETFGI data, ESG ETFs represented $52 billion of the $6 trillion global assets under management (AUM) of the ETF market.[(7)](##-Appendix)
+
+- **Bonds:** A record setting $185 billion in green bonds in 2019 was raised in total to fund environmentally sustainable projects, according to data from law firm Linklaters.[(7)](##-Appendix)
+
+- **Hedge Funds:** The AIMA and KPMG conducted a survey of 135 institutional investors, hedge fund managers and long-only managers with total AUM of $6.25 trillion across 13 countries, and found that 84% of managers reported an increased interest in ESG-orientated funds and strategies over the last 12 months.[(7)](##-Appendix)
+</details>
+
+In a letter to CEO's last month, BlackRock CEO, Larry Fink, laid it out planinly, "Climate change has become a defining factor in companies’ long-term prospects... awareness is rapidly changing, and I believe we are on the edge of a fundamental reshaping of finance.”[(8)](##-Appendix)
+
+ESG's, meanwhile, have exploded in the financial industry, with flows more than doubling in 2020 from $20 Billion to $42 Billion. Additionally, ESG's represent more than 20% of new flows going into equity ETFs for 2020, sor far.[(9)](##-Appendix)
 
 **Tech & Speed**
 
 Chairman Jack Reed (D-R.I.) highlighted the “tremendous technological innovation,” and subsequent regulation, that is changing the landscape of U.S. equity markets. He said the adoption of Regulation ATS and Regulation NMS led to the proliferation of new trading platforms and has “put a premium on speed,” giving an advantage to firms that can place orders first and take advantage of minuscule price differentials between the trading venues. 
 
-He also noted the explosive growth of high frequency trading in recent years, and the benefits that it has had on the market and investors. However, he said the increasing use of automation and advanced computing technology has raised questions about the effect that these processes have on the stability, fairness, and integrity of U.S. markets. [(8)](##-Appendix)
+He also noted the explosive growth of high frequency trading in recent years, and the benefits that it has had on the market and investors. However, he said the increasing use of automation and advanced computing technology has raised questions about the effect that these processes have on the stability, fairness, and integrity of U.S. markets. [(10)](##-Appendix)
 
-**Retail Investing**
+**Rise Of The Retail Investing**
 
-In the first quarter of 2020 alone, discount online brokerages in Canada added 500,000 new accounts, according to Investor Economics, growing at three times their normal pace. That same growth was seen in the U.S., where commission-free trading platform Robinhood added three million new clients in the same timeframe.[(9)](##-Appendix)
+It's been called the Robinhood effect. In an unprecedented shift that shows how far reaching the implications of a post-Covid world can be, millennials and Gen Z have started to abandon video games and sports betting in favor of a new craze: the stock market.
+
+In the first quarter of 2020 alone, discount online brokerages in Canada added 500,000 new accounts, according to Investor Economics, growing at three times their normal pace. That same growth was seen in the U.S., where commission-free trading platform Robinhood added three million new clients in the same timeframe.[(11)](##-Appendix)
+
+While insitutional investors are skeptical of this new crop of investors who are simply following the longstanding advice of "Don't fight the Fed" and always #BTFD ("Buy the f*cking dip,"), a top strategist at a major Wall Street bank that tracks market performance says the retail investor has so far outperformed the traditional instituions this year. 
+
+"I’m just looking at the scoreboard on the year," he says. "And the work-from-home trader has been a pretty good performer."[(12)](##-Apendix)
+
 
 **SaaS, PaaS, AI, & Big Data**
 
 Artificial Intelligence (AI) technologies are becoming more widespread and it's becoming a game-changing indsutry worth more than $15.7 trillion. [(!)](##-Appendix) AI optimizes business processes, increasing productivity and efficiency while automating repetitive tasks and supporting human capabilities. When SaaS is combined with AI capabilities, it enables businesses to obtain better value from their data, automate and personalize services, improve security, and supplement human capacity.
 
-In addition, Vertical SaaS has become a growing specialization for companies. Whereas Horizontal SaaS focuses on clients across any sector and industry, Vertical SaaS is completely customizable, targeting clients within specific industries and supply chains. Vertical Saas provides wide-ranging benefits, including customer intelligence, pre-defined metrics and KPI's, improved data governance, and higher quality service.
+In addition, Vertical SaaS has become a growing specialization for companies. Whereas Horizontal SaaS focuses on clients across any sector and industry, Vertical SaaS is designed to be completely customizable, targeting clients within specific industries and supply chains. Vertical Saas provides wide-ranging benefits, including customer intelligence, pre-defined metrics and KPI's, improved data governance, and higher quality service.
 
 Finally, 2020 could see the rise of Platform-as-a-Service - developments that empower businesses to build custom apps as add-ons to their original services. PaaS offerings are robust, flexible, and accessible, which means companies will be able to scale their business more easily by using a platform as a service.
 
@@ -214,6 +235,12 @@ Is there any information about the market size of this set of customers?
 
 LTSE's secondary customers are long-term investors who are looking for a code of ethics that a company is obliged to follow. 
 
+Not only does the data show that there is a tangible consumer demand for ESG stocks, research also shows that investors are willing to pay more for them.
+
+A study published in January by Augustin Landier of HEC Paris Business School, Jean-François Bonnefon of Toulouse School of Economics, and Parinitha Sastry and David Thesmar of MIT Sloan, showed that investors are willing to pay $0.7 more for a share in a company giving one more dollar per share to charity. The study also revealed that firms exercising a negative social impact were valued at $0.9 less per share than those considered socially “neutral.”[(7)](##-Appendix)]
+
+2020 Global ETF Investor Survey from U.S. private bank Brown Brothers Harriman (BBH) estimated that nearly 74% of global investors plan to increase their ESG ETF allocation over the next year. In five years, almost one in five investors said they would allocate between 21% and 50% of their portfolio to ESG funds, and BBH concluded that ESG “doesn’t appear to be a passing fad.”[(7)](##-Appendix)]
+
 Is there any information about the market size of this set of customers?
 
 
@@ -259,8 +286,15 @@ At this point in time, LTSE has yet sign an exclusive company to the exchange.
 
 However, the software side of their business has
 
+
+
+“We believe that these green stocks could, over time, become some of the world’s most valuable companies — even eclipsing the current technology monopolies as regulation accelerates during the coming decade. Investors should consider tilting their portfolios towards green stocks so they don’t miss this long-term opportunity," says Saxo Bank Head of Equity Strategy Peter Garnry.[(7)](##-Appendix)
+
 ### **CORE METRICS**
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+CBOE
+https://markets.cboe.com/us/equities/market_share/
 
 
 
@@ -298,11 +332,17 @@ Yet to be seen.
 <br>
 (6) [LTSE FAQ](https://ltse.com/faq)
 <br>
-(7) [How the new Long-Term Stock Exchange is leveraging sustainable investing’s meteoric rise](https://www.cnbc.com/video/2020/09/10/long-term-stock-exchange-ceo-on-leveraging-sustainable-investing-esg.html?&qsearchterm=long%20term%20stock%20exchange) 
+(7) [The numbers suggest the green investing ‘mega trend’ is here to stay](https://www.cnbc.com/video/2020/09/10/long-term-stock-exchange-ceo-on-leveraging-sustainable-investing-esg.html?&qsearchterm=long%20term%20stock%20exchange) 
+<br> 
+(8) [BlackRock CEO says the climate crisis is about to trigger ‘a fundamental reshaping of finance’](https://www.cnbc.com/2020/01/14/blackrock-ceo-larry-fink-says-climate-change-will-soon-reshape-markets.html)
 <br>
-(8) [The Impact of Technological Innovation on Exchanges](https://www.sifma.org/resources/general/dec-the-impact-of-technological-innovation-on-exchanges/)
+(9)[How the new Long-Term Stock Exchange is leveraging sustainable investing’s meteoric rise](https://www.cnbc.com/2020/02/14/esg-investing-numbers-suggest-green-investing-mega-trend-is-here.html) 
 <br>
-(9) [‘This is addicting’: How the new retail investor mania is changing the stock market game](https://financialpost.com/investing/how-the-new-retail-investor-mania-is-changing-the-stock-market-game)
+(10) [The Impact of Technological Innovation on Exchanges](https://www.sifma.org/resources/general/dec-the-impact-of-technological-innovation-on-exchanges/)
+<br>
+(11) [‘This is addicting’: How the new retail investor mania is changing the stock market game](https://financialpost.com/investing/how-the-new-retail-investor-mania-is-changing-the-stock-market-game)
+<br>
+(12) [How retail investors are beating the pros at their own game](https://www.axios.com/robinhood-effect-young-investors-c4acb5e8-ecc3-4d0d-a193-d125fdf075e4.html)
 <br>
 (!) [The 10 Essential SaaS Trends You Should Watch Out For In 2020](https://www.datapine.com/blog/saas-trends/)
 <br>
