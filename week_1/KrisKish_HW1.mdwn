@@ -116,7 +116,8 @@ LTSE has two overarching software products on the market: LTSE Bridge and LTSE H
 
 LTSE Bridge is a software platform used by more than 60,000 business builders to manage and forecast key startup resources including people, equity, and cash to build strong, sustainable startups. It includes tools for cap table management, 409A processing, cashflow management, and hiring plan tools. 
 
-<img src="https://ltse.com/static/a7e6e66a70b57b2c619f0075801d4d70/bc8e0/scrnsht3.png" alt="the-lean-startup" height="150"> <img src="https://ltse.com/static/599fddbb0ab563dd18601107f4285ec0/bc8e0/options.png" alt="the-lean-startup" height="150"> <img src="https://ltse.com/static/98bd084f32fa311e43648b6101c82e31/bc8e0/scrnsht2.png" alt="the-lean-startup" height="150">
+<p align="center">
+<img src="https://ltse.com/static/a7e6e66a70b57b2c619f0075801d4d70/bc8e0/scrnsht3.png" alt="the-lean-startup" height="180"> <img src="https://ltse.com/static/599fddbb0ab563dd18601107f4285ec0/bc8e0/options.png" alt="the-lean-startup" height="180"> <img src="https://ltse.com/static/98bd084f32fa311e43648b6101c82e31/bc8e0/scrnsht2.png" alt="the-lean-startup" height="180"></p>
 
 LTSE Horizon is a software platform for public companies that drives transparency on the IPO process and that optimizes the long-term orientation of your partners and investors.
 
@@ -130,13 +131,17 @@ In addition, LTSE owns and operates an exchange that can be broadly charactarize
 
 LTSE sits at the crossraods of financial technology, software, long-term sustainability, and securities exchanges. As such, there are a multitiude of trends and innovations that have disrupted the space. Below are four main areas that are believed to have played a major role in disrupting the financial industries LTSE play a role in.
 
-<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fsap%2Ffiles%2F2017%2F04%2FProfitability-and-Sustainability-04-10-2017-A-1200x802.jpg" alt="sustainable-investments" width="800">
+<p align="center">
+<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fsap%2Ffiles%2F2017%2F04%2FProfitability-and-Sustainability-04-10-2017-A-1200x802.jpg" alt="sustainable-investments" width="800"></p>
 
-**Sustainability & ESGs**
+#### **Sustainability & ESGs**
 
 > "“For the first time since WWII we sense a shift in which climate and the environment — not growth — will become the priority of governments and their citizens, as shortages of food, clean water and air become existential questions,” Saxo Bank Chief Economist Steen Jakobsen said in his latest quarterly outlook report.[(7)](##-Appendix)
 
-Across all asset classes, including equities, government bonds, ETFs (exchange-traded funds) and hedge funds, investors around the globe are demanding better options for socially and environmentally consious invemstments. Increasingly, awareness on climate issues coupled with progressing policy change around the world and green tech becoming increasily less expensive, makes sustainably built companies more attractive. 
+Across all asset classes, including equities, government bonds, ETFs (exchange-traded funds) and hedge funds, investors around the globe are demanding better options for socially and environmentally conscious investments. As such, there is a transformative shift taking place in the financial markets. Money is flowing into investment strategies that emphasize the most sustainable companies. At the same time, investors are hesitant about allocating capital to companies that fail to demonstrate a commitment to sustainability. 
+
+Even in the face of pandemic-related financial pressures and market volatility ESG's have exploded, with inflows more than doubling in 2020 from $20 Billion to $42 Billion. Additionally, ESG's represent more than 20% of new flows going into equity ETFs in early 2020.[(8)](##-Appendix)
+
 
 <details>
 <summary>Click the arrow for more ESG & sustainability data on each asset class.</summary>
@@ -148,46 +153,48 @@ Across all asset classes, including equities, government bonds, ETFs (exchange-t
 - **Hedge Funds:** The AIMA and KPMG conducted a survey of 135 institutional investors, hedge fund managers and long-only managers with total AUM of $6.25 trillion across 13 countries, and found that 84% of managers reported an increased interest in ESG-orientated funds and strategies over the last 12 months.[(7)](##-Appendix)
 </details>
 
-In a letter to CEO's last month, BlackRock CEO, Larry Fink, laid it out planinly, "Climate change has become a defining factor in companies’ long-term prospects... awareness is rapidly changing, and I believe we are on the edge of a fundamental reshaping of finance.”[(8)](##-Appendix)
+In a letter to CEO's last month, BlackRock CEO, Larry Fink, laid it out plainly, "Climate change has become a defining factor in companies’ long-term prospects... awareness is rapidly changing, and I believe we are on the edge of a fundamental reshaping of finance.”[(9)](##-Appendix)
 
-ESG's, meanwhile, have exploded in the financial industry, with flows more than doubling in 2020 from $20 Billion to $42 Billion. Additionally, ESG's represent more than 20% of new flows going into equity ETFs for 2020, sor far.[(9)](##-Appendix)
+<p align="center">
+<img src="https://image.cnbcfm.com/api/v1/image/106291097-157609189521620191211sustainableinvestingsurgetops30trillion.png?v=1576091951&w=740&h=416" alt="sustainable-investing-2018" width="800"></p>
 
-**Tech & Speed**
+#### **Rise Of The Retail Investing**
 
-Chairman Jack Reed (D-R.I.) highlighted the “tremendous technological innovation,” and subsequent regulation, that is changing the landscape of U.S. equity markets. He said the adoption of Regulation ATS and Regulation NMS led to the proliferation of new trading platforms and has “put a premium on speed,” giving an advantage to firms that can place orders first and take advantage of minuscule price differentials between the trading venues. 
+It's been called the Robinhood effect. In an unprecedented shift that shows how far-reaching the implications of a post-Covid world can be, millennials and Gen Z have started to abandon video games and sports betting in favor of a new craze: the stock market.
 
-He also noted the explosive growth of high frequency trading in recent years, and the benefits that it has had on the market and investors. However, he said the increasing use of automation and advanced computing technology has raised questions about the effect that these processes have on the stability, fairness, and integrity of U.S. markets. [(10)](##-Appendix)
+In the first quarter of 2020 alone, discount online brokerages in Canada added 500,000 new accounts, according to Investor Economics, growing at three times their normal pace. That growth was outpaced by the U.S., where commission-free trading platform Robinhood added three million new clients in the same timeframe.[(10)](##-Appendix)
 
-**Rise Of The Retail Investing**
+While insitutional investors are skeptical of this new crop of investors, who are simply following the longstanding advice of "Don't fight the Fed" and always #BTFD ("Buy the f*cking dip,"), a top strategist at a major Wall Street bank that tracks market performance says the retail investor has so far outperformed the traditional instituions this year. 
 
-It's been called the Robinhood effect. In an unprecedented shift that shows how far reaching the implications of a post-Covid world can be, millennials and Gen Z have started to abandon video games and sports betting in favor of a new craze: the stock market.
-
-In the first quarter of 2020 alone, discount online brokerages in Canada added 500,000 new accounts, according to Investor Economics, growing at three times their normal pace. That same growth was seen in the U.S., where commission-free trading platform Robinhood added three million new clients in the same timeframe.[(11)](##-Appendix)
-
-While insitutional investors are skeptical of this new crop of investors who are simply following the longstanding advice of "Don't fight the Fed" and always #BTFD ("Buy the f*cking dip,"), a top strategist at a major Wall Street bank that tracks market performance says the retail investor has so far outperformed the traditional instituions this year. 
-
-"I’m just looking at the scoreboard on the year," he says. "And the work-from-home trader has been a pretty good performer."[(12)](##-Apendix)
+"I’m just looking at the scoreboard on the year," he says. "And the work-from-home trader has been a pretty good performer."[(11)](##-Apendix)
 
 
-**SaaS, PaaS, AI, & Big Data**
+#### **AI, Big Data, SaaS, & PaaS**
 
-Artificial Intelligence (AI) technologies are becoming more widespread and it's becoming a game-changing indsutry worth more than $15.7 trillion. [(!)](##-Appendix) AI optimizes business processes, increasing productivity and efficiency while automating repetitive tasks and supporting human capabilities. When SaaS is combined with AI capabilities, it enables businesses to obtain better value from their data, automate and personalize services, improve security, and supplement human capacity.
+Artificial Intelligence (AI) technologies are becoming more widespread as processing power continues to follow Moore's Law, exploding into an industry that is now worth more than $15.7 trillion.[(12)](##-Appendix) AI has the ability to turbocharge business processes, increasing productivity and efficiency while automating repetitive tasks and supporting human capabilities. When combined with Software-as-a-Service (SaaS) businesses are able to leverage and obtain better value from their data, automate and personalize services to specific roles and industries, improve security, and supplement human capacity at scale.
 
 In addition, Vertical SaaS has become a growing specialization for companies. Whereas Horizontal SaaS focuses on clients across any sector and industry, Vertical SaaS is designed to be completely customizable, targeting clients within specific industries and supply chains. Vertical Saas provides wide-ranging benefits, including customer intelligence, pre-defined metrics and KPI's, improved data governance, and higher quality service.
 
-Finally, 2020 could see the rise of Platform-as-a-Service - developments that empower businesses to build custom apps as add-ons to their original services. PaaS offerings are robust, flexible, and accessible, which means companies will be able to scale their business more easily by using a platform as a service.
+Finally, 2020 is seeing the rise of Platform-as-a-Service - developments that empower businesses to build custom apps as add-ons to their original services. PaaS offerings are robust, flexible, and accessible, which means companies will be able to scale their business more easily by using a platform and selectively implementing industry-specific add-on services.
+
+#### **Regulation**
+
+During a Senate Banking Subcommitties on Securities, Insurance, and Investment hearing, Chairman Jack Reed (D-R.I.) noted that “tremendous technological innovation,” and subsequent regulation, is changing the landscape of U.S. equity markets. He said the adoption of [Regulation ATS](https://en.wikipedia.org/wiki/Alternative_trading_system) and [Regulation NMS](https://www.investopedia.com/terms/r/regulation-nms.asp) led to the increase of new trading platforms and has “put a premium on speed,” giving an advantage to firms that can place orders first and take advantage of minuscule price differentials between the trading venues. 
+
+He also noted the explosive growth of high frequency trading in recent years, and the benefits that it has had on the market and investors. However, he said the increasing use of automation and advanced computing technology has raised questions about the effect that these processes have on the stability, fairness, and integrity of U.S. markets.[(13)](##-Appendix) While more regulation on financial markets may be seen as initially positive, there may be yet unforeseen impacts on new and traditional exchanges alike. 
+
 
 ### **COMPETITIVE LANDSCAPE**
 
-Competition is heating up for the U.S. Stock Exchanges as three newcomers are launching in September 2020 alone (including LTSE, MIAX Pearl Equities, and Members Exchange). This will bring the total to 16 stock exchanges vying for market share, with NYSE-owner Intercontinental Exchange Inc ICE.N operating five, Cboe Global Markets CBOE.Z running four, Nasdaq with three, and IEX Group one (LTSE trades under Cboe Global Markets).
+At first glance it may seem as though competition is heating up for the U.S. Stock Exchanges this year, with three newcomers launching in September 2020 alone (LTSE, MIAX Pearl Equities, and Members Exchange). This will bring the total to 16 stock exchanges vying for market share, with NYSE-owner Intercontinental Exchange Inc ICE.N operating five, Cboe Global Markets CBOE.Z running four, Nasdaq with three, and IEX Group one (LTSE trades under Cboe Global Markets).
 
-This is all set against a backdrop of a rise in "retail" investors, choppy trading volumes, and recent highs from the S&P 500 and the Nasdaq, buouyed by unprecedented support from the Federal Reserve. 
+Set this against a backdrop of a rise in "retail" investing, choppy trading volumes, recent highs from the S&P 500 and the Nasdaq buouyed by unprecedented support from the Federal Reserve, and it seems like an uncertain time to launch a new exchange.
 
-There are currently no exchanges that specifically targets long-term, sustainable companies and investors in the United States. On an international scope, the closest competitor is EuroNext, however, they do not serve the same geographic marketplace.
+However, there are currently no exchanges that specifically targets long-term, sustainable companies and investors in the United States. On an international scope, a close competitor is [EuroNext](https://www.euronext.com/en/about/our-business), however, they simply incorporate ESG factors into investment decision-making, but do not require it.
 
-> Euronext supports companies from local and international blue chips to small and medium enterprises with listing services to meet their specific needs.  Issuers in all geographies and from all sectors can grow by raising capital on our regulated markets in Amsterdam, Brussels, Dublin, Lisbon, London and Paris, and benefit from exposure to the exchange’s diverse, international client base.[(**)](##-Appendix)
+> The world is facing pressing challenges to ensure a sustainable future for our planet. The finance sector is a vital contributor to the global sustainability agenda. It can empower sustainable finance, by incorporating environmental, social and governance (ESG) factors into investment decision-making. It can also support the allocation of capital to sustainable initiatives.[(14)](##-Appendix)
 
-While the "legacy" exchanges - such as the New York Stock Exchange, Nasdaq Inc., and the S&P 500 - may be considered competitors in the traditional sense, LTSE supports and encourages dual-listing, so that a company can still benefit from LTSE's protections while accessing liquidity at the open/close from a legacy exchange.[(?)](##-Appendix)
+While the "legacy" exchanges - such as the New York Stock Exchange, Nasdaq Inc., and the S&P 500 - may be considered competitors in the traditional sense, LTSE supports and encourages dual-listing, so that a company can still benefit from LTSE's protections while accessing liquidity at the open/close from a legacy exchange.[(15)](##-Appendix)
 
 ___
 
@@ -195,7 +202,7 @@ ___
 
 ### **CHALLENGE**
 
-A 2013 survey of more than 1,000 board members and C-suite executives gauging their long-term approach in managing their companies found that 79% of respondants felt pressured to demonstrate strong financial performance over a period of just two years or less and 46% said that the pressure to deliver strong short-term financial performance stemmed from their boards, while the board members expressed that they were just channeling the short-term pressures that they feel from institutional investors.[(^)](##-Appendix)
+A 2013 survey of more than 1,000 board members and C-suite executives gauging their long-term approach in managing their companies found that 79% of respondants felt pressured to demonstrate strong financial performance over a period of just two years or less and 46% said that the pressure to deliver strong short-term financial performance stemmed from their boards, while the board members expressed that they were just channeling the short-term pressures that they feel from institutional investors.[(16)](##-Appendix)
 
 Focused on quarterly earnings and growth, companies are pressured for results by stackeholders on a narrow timeline which can cause companies to undermine future economic growth with the lack of long-term investment, ultimately leading to a slowing GDP, higher unemployment levels, and lower future investment returns for savers. Managing a company for the sake of the short-term is counter-intuitive to a philosophy of long-term thinking that research shows contributes to the creation of value over time.
 
@@ -209,9 +216,9 @@ LTSE accomplishes this through a broad suite of software and services for buildi
 
 > "Our listing standards are designed to create a new public market experience that aligns modern companies and investors focused on creating value over generations." -Michelle Greene, President
 
-Companies that list their shares for sale on the Long-Term Stock Exchange will be required to publish a series of policies that focus on long-term value creation and are designed to provide shareholders and other stakeholders with insight into the way that companies operate and build their businesses for the long-term.[(#)](##-Appendix) 
+Companies that list their shares for sale on the Long-Term Stock Exchange will be required to publish a series of policies that focus on long-term value creation and are designed to provide shareholders and other stakeholders with insight into the way that companies operate and build their businesses for the long-term.[(17)](##-Appendix) 
 
-The 5 Principles of LTSE Companies:
+**The 5 Principles of LTSE Companies:**
 
 1. Long-term focused companies should consider a broader group of stakeholders and the critical role they play in one another’s success.
 
@@ -221,38 +228,33 @@ The 5 Principles of LTSE Companies:
 
 4. Boards of directors of long-term focused companies should be engaged in and have explicit oversight of long-term strategy.
 
-5. Long-term focused companies should engage with their long-term shareholders.[(#)](##-Appendix)
+5. Long-term focused companies should engage with their long-term shareholders.[(17)](##-Appendix)
 
-Stock churn has been on the rise with annual turnover of stocks traded on the NYSE increasing from 36% in 1980 to 63% in 1996, and up to a high of 138% in 2008.[(^)](##-Appendix) On the LTSE, stockholders will be granted more voting power the longer they hold a stock, incentivizing investors to buy in early and keep skin in the game over the long-term. 
+As it pertains to investors, stock churn has been on the rise with annual turnover of stocks traded on the NYSE increasing from 36% in 1980 to 63% in 1996, and up to a high of 138% in 2008.[(16)](##-Appendix) On the LTSE, stockholders will be granted more voting power the longer they hold a stock, incentivizing investors to buy in early and keep skin in the game over the long-term. 
 
 ### **TARGET CUSTOMERS**
 
-LTSE's primary customer are private companies seeking to go public that also contain within their core structure guidelines on sustainability, inclusion and diversity, employee treatment, and more.
+LTSE's primary customer are private companies seeking to go public that also contain within their core structure guidelines on sustainability, inclusion and diversity, employee treatment, and more. According to SEC filings, LTSE's current software business is currently serving approximately 20,000 users, mostly early stage companies.”[(18)](##-Appendix)] However, there is a massive market opportunity within the shift toward ESGs.
 
-Is there any information about the market size of this set of customers?
+[500 Startups](500.co), a leading global venture fund and seed accelerator, surveyed its founder community to get a sense of how the current social, political, and health climate may affect the integration of ESG policies and practices in the startup world, and the potential impact that ESG policies may have on sales, recruitment, and fundraising efforts. One hundred nine startup founders responded to questions about internal ESG views and practices, with 57% of respondents being pre-seed startups with fewer than five employees. 
 
- According to SEC filings, LTSE's software business is currently serving approximately 20,000 users, mostly early stage companies.”[(&2)](##-Appendix)]
+According to the survey results, 66% of founders revealed that recent events (namely the Black Lives Matter movement) made them want to implement policies, practices, and metrics involving ESG issues such as diversity and inclusion. 90% responded that they think implementing ESG policies and practices is important due to COVID-19 (53% think it is extremely important and 37% think it is somewhat important). Furthermore, 69% responded that they think ESG will increase sales, and an overwhelming majority (91%) responded that ESG will help their company attract and retain talent.
 
-LTSE's secondary customers are long-term investors who are looking for a code of ethics that a company is obliged to follow. 
+Among startup founders who do not yet have ESG policies in place, 37% responded that they were too early, and 20% responded that investors don’t care about them. However, 90% of all founders surveyed stated that if an investor required a company to implement ESG, it would make the investor desirable (45% extremely desirable, 24% very desirable, and 21% somewhat desirable).[(19)](##-Appendix)
 
-Not only does the data show that there is a tangible consumer demand for ESG stocks, research also shows that investors are willing to pay more for them.
+LTSE's secondary customers are long-term investors who are seeking companies that are obliged to abide by a code of ethics. With Millennials standing to inherit approximately $30 Trillion from their parents, the Baby Boomers, in the coming decades, there is a lot at stake.[(20)](##-Appendix) Startups are especially well-positioned to establish credibility with young investors because many do not trust banks after the 2008-2009 financial crisis. Addding to this, in a 2015 Global Corporate Sustainability report, Nielsen noted that while 66 percent of respondents had said they were willing to pay extra for more sustainable brands, fully 73 percent of millennial respondents said the same. In addition, 81 percent of millennials expected their preferred companies to make public declarations of corporate citizenship.[(21)](##-Appendix)
 
-A study published in January by Augustin Landier of HEC Paris Business School, Jean-François Bonnefon of Toulouse School of Economics, and Parinitha Sastry and David Thesmar of MIT Sloan, showed that investors are willing to pay $0.7 more for a share in a company giving one more dollar per share to charity. The study also revealed that firms exercising a negative social impact were valued at $0.9 less per share than those considered socially “neutral.”[(7)](##-Appendix)]
+Not only does the data show that there is a tangible consumer demand for ESG stocks, as noted above, research also shows that investors are willing to pay more for them. A study published in January by Augustin Landier of HEC Paris Business School, Jean-François Bonnefon of Toulouse School of Economics, and Parinitha Sastry and David Thesmar of MIT Sloan, showed that investors are willing to pay $0.7 more for a share in a company giving one more dollar per share to charity. The study also revealed that firms exercising a negative social impact were valued at $0.9 less per share than those considered socially “neutral.”[(7)](##-Appendix)]
 
 2020 Global ETF Investor Survey from U.S. private bank Brown Brothers Harriman (BBH) estimated that nearly 74% of global investors plan to increase their ESG ETF allocation over the next year. In five years, almost one in five investors said they would allocate between 21% and 50% of their portfolio to ESG funds, and BBH concluded that ESG “doesn’t appear to be a passing fad.”[(7)](##-Appendix)]
 
-Is there any information about the market size of this set of customers?
-
-
-On a tertiary level, the exchange is open to any registered broker-dealer who is a member of at least one other national securities exchange and is able to clear trades.
-
-In the long-term, LTSE seeks to "change-over" established organizations to LTSE, exclusively.
+On a tertiary level, the exchange is open to any registered broker-dealer who is a member of at least one other national securities exchange and is able to clear trades whilst in the long-term, LTSE seeks to "change-over" established organizations to LTSE exclusively.
 
 ### **COMPETITIVE ADVANTAGE**
 
 Today's companies deserve a public market where they are rewarded for making smart choices that embrace their futures - choices to innovate, to invest in their employees, and to seed future growth. It is imperative to not only create awareness but to act and implement these practices in a way that holds companies to a higher standard.
 
-Research show that long-term mindset pays off. From 2001-2014, the revenue of long-term firms cumulatively grew on average 47 percent more than the revenue of other firms, and with less volatility. Cumulatively, the earnings of long-term firms also grew 36 percent more on average over this period than those of other firms, and their economic profit grew by 81 percent more on average.[($)](##-Appendix)
+Research show that long-term mindset pays off. From 2001-2014, the revenue of long-term firms cumulatively grew on average 47 percent more than the revenue of other firms, and with less volatility. Cumulatively, the earnings of long-term firms also grew 36 percent more on average over this period than those of other firms, and their economic profit grew by 81 percent more on average.[(22)](##-Appendix)
 
 With software and services for building modern companies and pursuing a path to the public markets, a U.S. national securities exchange, and a coalition of long term-focused companies and like-minded investors, LTSE supports companies that are built to last and investors who measure their horizons in decades and value companies accordingly.[(2)](##-Appendix)
 
@@ -261,16 +263,50 @@ LTSE leverages these three arms of their business to give their stakeholders and
 
 ### **FUNDING**
 
-The Long-Term Stock Exchange raised approximately $18.7 million in Series A funding back in July 2016, with Floodgate and the now-inactive Lowercase Capital participating in the round, according to Crunchbase data and SEC disclosures from the time. [(*)](##-Appendix)
+The Long-Term Stock Exchange raised approximately $18.7 million in Series A funding back in July 2016, with Floodgate and the now-inactive Lowercase Capital participating in the round, according to Crunchbase data and SEC disclosures from the time.[(23)](##-Appendix)
 
-More recently, two legal entities which comprise the LTSE filed paperwork with the U.S. Securities and Exchange Commission indicating that the LTSE has raised approximately $50 million in new funding. The first filing was from Delaware-based “LTSE Services, Inc.”, which disclosed $49,738,849 in new funding, sourced from 65 investors.[(&)](##-Appendix)] A secondary entity, “LTSE Group, Inc.” disclosed it sold $261,149 worth of equity, also to 65 investors.[(&2)](##-Appendix)]
+More recently, two legal entities which comprise the LTSE filed paperwork with the U.S. Securities and Exchange Commission indicating that the LTSE has raised approximately $50 million in new funding. The first filing was from Delaware-based “LTSE Services, Inc.”, which disclosed $49,738,849 in new funding, sourced from 65 investors.[(24)](##-Appendix) A secondary entity, “LTSE Group, Inc.” disclosed it sold $261,149 worth of equity, also to 65 investors.[(18)](##-Appendix)]
 
-Regarding LTSE Services, Inc., the SEC states that owners of LTSE Group “also will directly own a separate, affiliated Delaware-incorporated entity, LTSE Services, Inc. a software business currently serving approximately 20,000 users, mostly early stage companies.”[(&2)](##-Appendix)]
+Regarding LTSE Services, Inc., the SEC states that owners of LTSE Group “also will directly own a separate, affiliated Delaware-incorporated entity, LTSE Services, Inc. a software business currently serving approximately 20,000 users, mostly early stage companies.”[(18)](##-Appendix)]
 
-While LTSE doesn't release public information about it's earnings as a private entity, marketing intelligence firm ZoomInfo shows that revenue has decreased significantly during the Covid-19 era, down to $2.2 Million in Q2/3 2020 from approximately $6.6 Million at the same time in 2019.[(;)](##-Appendix)
+While LTSE doesn't release public information about it's earnings as a private entity, marketing intelligence firm ZoomInfo shows that revenue has decreased significantly during the Covid-19 era, down to $2.2 Million in Q2/3 2020 from approximately $6.6 Million during the same time period in 2019.[(25)](##-Appendix)
 
 ### **TECHNOLOGIES & IMPLEMENTATION**
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+#### **Exchange**
+
+On a basic level, direct access to LTSE will be available to users at an Internet Protocol (IP) address by one or more of the following methods:
+
+ 1. At LTSE's IP network address by the users’ own software, via communications that are compliant with the Financial Information Exchange (FIX) protocol API provided by LTSE.
+ 
+ 2. At the LTSE's IP network address by the users’ own software, via communications that are compliant with another API provided by LTSE.
+ 
+ 3. Other means of access provided from time to time by LTSE.
+
+More in depth, users connect to the system via the LTSE FIX Order Handler using the industry standard FIX protocol, with LTSE specific extensions. The LTSE FIX Order Handler validates incoming orders, converts them to an internal proprietary format, and forwards them to the appropriate matching unit. At the core of the system are several matching units. Each matching unit handles a bin of symbols, which can be reallocated to balance the load across the system. The matching unit compares the limit price of an incoming order with the price of resting limit orders on the LTSE Order Book and the price of other markets’ displayed quotes. If the order is immediately marketable against the LTSE Order Book, and the LTSE quote is equal to or better than the consolidated quote, an immediate match is made and communicated back to the user. If another market is displaying a better quote, the order will be handled depending on a user’s instructions.[(26)](##-Appendix)
+
+According to FINRA, the Alternative Display Facility (ADF) User Guide & and ADF FIX Specification for Trade Reporting were updated on February 26, 2020 to include the LTSE. [(27)](##-Appendix) The ADF is a Self-Regulated Organization display-only facility that is operated by FINRA. The ADF provides members with a facility for the display of quotations, the reporting of trades, and the comparison of trades. The ADF best bid and offer and trade reports are included in the consolidated data stream for Nasdaq and CQS listed securities.[(28)](##-Appendix)
+
+ADF uses the TRACE Reporting and Quotation Services Web Application, which is designed to simplify the reporting and management of Fixed Income and Equity Trades and Quotes to FINRA, as well as the TRAQS Web Application for ease of use and functionality flow for users. All trade reporting functions and respondent data queries are made intuitive via a set of links and subpages. The website uses a combination of Transport Layer Security (TLS) encryption and X.509 Digital Certificate software to protect the data that is being transferred from the client to FINRA and back. In order to access the website, the user must be entitled to use the product and have been assigned a digital certificate to be loaded on their PC. [(29)](##-Appendix) 
+
+LTSE's trading platform is housed in a data center in New Jersey with a copy of its trading platform kept at its secondary site, a data center in Chicago. Both data centers provide a high level of security and availability through redundant and reliable environment control systems such as redundant power supplies, on-site backup generators, and cooling systems.
+
+#### **Software** 
+*(Assumption based on Adobe)*
+
+Project Firefly is a complete framework that enables enterprise developers to build and deploy custom web applications that extend Adobe Experience Cloud solutions and run on Adobe infrastructure. It leverages modern technologies (JAM stack, serverless computing, Node, and React) and ensures best practices when building applications (event-driven architecture, microservices, continuous integration, and delivery).
+
+From a developer perspective, the main components are:
+
+    Single Page Application (SPA) - you build a SPA that uses React Spectrum for the client side, which is the same UI toolkit used by Adobe solutions.
+
+    For the backend, you create microservices and orchestrate APIs by leveraging I/O Runtime (Adobe’s serverless platform).
+
+    The main developer tools are the CLI, SDKs, Adobe Services and Developer Console. Support for Adobe authentication, end-user access control, publishing/consuming custom events, storing data and files, CI/CD pipelines, CDN, and developer sandboxes are provided out-of-the-box.
+
+    The execution environment is Adobe Experience Cloud. Your custom apps will be living side-by-side with the Adobe Experience Cloud solutions and will be executed in the context of the organization and its authenticated employees.
+
+    (https://www.adobe.io/content/udp/en/apis/experienceplatform/project-firefly/docs.html#!AdobeDocs/project-firefly/master/overview/what_is.md)
 
 
 
@@ -284,26 +320,56 @@ While LTSE doesn't release public information about it's earnings as a private e
 
 At this point in time, LTSE has yet sign an exclusive company to the exchange.
 
-However, the software side of their business has
-
-
-
 “We believe that these green stocks could, over time, become some of the world’s most valuable companies — even eclipsing the current technology monopolies as regulation accelerates during the coming decade. Investors should consider tilting their portfolios towards green stocks so they don’t miss this long-term opportunity," says Saxo Bank Head of Equity Strategy Peter Garnry.[(7)](##-Appendix)
 
+ESG risks can vary greatly depending on the company, product, service, or market. However, early-stage investors can play an active role in educating startups about the risks. After all, strong ESG policies correlate with higher returns. According to a Boston Consulting Group report, diverse teams perform better in the long-term, both in terms of innovation and improved financial performance. Consumers increasingly show their support for companies with ethical and transparent business practices, including those with a positive environmental impact and sustainable operations. Meanwhile, governance and regulatory issues, such as compliance with data privacy laws, can affect companies of any size, which means that even at the early stage, awareness of regulations is crucial. Outlining policies related to these issues can help future-proof smaller companies and put them in a better position to face potential regulatory changes over time.(https://www.nasdaq.com/articles/esg-gains-momentum-among-early-stage-startups-2020-07-16)
+
+
+However, the software side of their business has
+
 ### **CORE METRICS**
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-CBOE
-https://markets.cboe.com/us/equities/market_share/
+Broadly speaking, The United Nations Sustainable Development Goals (SDGs), one of the most commonly adopted impact assessment frameworks, represents a general consensus of global stakeholders around 17 ambitious goals. Though responsibility for achieving the SDGs rests primarily with countries that have adopted them, actions by governments alone are not expected to achieve the goals by their target date of 2030. With that in mind, policymakers and the development community have looked to institutional investors and the markets to channel capital in ways that may help to advance sustainable development around the world by 2030.
 
+<p align="center">
+<img src="https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2015/12/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png?fit=728%2C451&ssl=1" alt="sdg-goals" width="800"></p>
 
+While LTSE will hold companies to account based on their codified [5 Principles](###-**SOLUTION**), there is no single entity that sets standards and measures how well a company adheres to those standards. However, there are several third-party entities that rate and evaluate companies based on ESG criteria. 
 
-Outperformance of the overall market.
+#### *MSCI ESG Ratings*
+
+**MSCI ESG Fund Metrics** rate mutual funds and ETFs based on over 100 fund metrics. These metrics are broken into three categories: sustainable impact, values alignment, and ESG risk. Each metric aims to provide greater transparency and helps measure the environmental, social, and governance characteristics of each investment. Overall ESG scores are then calculated using a weighted average of the underlying holdings, with 0 being the lowest score and 10 being the highest. MSCI’s rating system also gives investors a clearer picture of how a company might perform relative to industry-specific risks and their ability to manage those risks.
+
+**MSCI ESG Research** has developed a detailed list of activities, products, and services with positive impact on the society and the environment. The framework, MSCI Sustainable Impact Metrics, is comprised of six Environmental Impact categories and seven Social Impact categories. 
+
+The MSCI Sustainable Impact Metrics can be used as a stand-alone set of metrics that allow investors to measure their exposure to listed companies providing sustainable impact solutions. The metrics can also be applied towards more complex frameworks, such as exposure to companies potentially aligned with the European Union’s Taxonomy of Sustainable Activities, with options for applying minimum ESG standards to minimize exposure to adverse impacts and risk of breaching global norms. The taxonomy of environmentally sustainable solutions leveraged for Sustainable Impact Metrics has also been adapted to evaluate use of proceeds for green bonds and serves as a backbone for the Bloomberg Barclays MSCI Green Bond Index. MSCI Sustainable Impact Metrics is also a core building block of our new and expanded model for evaluating company-level alignment to the SDGs: MSCI SDG Alignment. (https://www.msci.com/our-solutions/esg-investing/impact-solutions)
+
+<p align="center">
+<img src="https://www.msci.com/documents/1296102/20848268/SDG_Company_Landingpage.png/ddf1a086-e931-8e41-d268-cb9e1afe0ffb" alt="sdg-impact-example" width="800"></p>
+
+#### *Morningstar Sustainability Rating for Funds*
+
+One of the more popular sources for independent analysis and evaluations of a variety of investment options, Morningstar also has a variety of tools to evaluate ESG funds. The primary tool, the Morningstar Sustainability Rating, uses ESG analytics from Sustainalytics, a leading provider of ESG research, to calculate how involved a company is with ESG issues, whether they have been involved in any ESG-related controversies and more. Through a series of calculations based on several factors, a company is given a rating between one and five. How Morningstar arrives at these ratings is highly methodical. For those who are interested, they are quite transparent about their methodology, which can be found here.
+
+#### *Bloomberg’s ESG Analysis*
+
+By studying 20,000+ companies and using the ESG data disclosed from more than 9,100 companies, Bloomberg has composed an in-depth database to give the public information on ESG practices. This information can tell investors about everything from gender diversity on the board to emission standards. What’s useful is the variety of tools they have developed to give a snapshot into a company’s practices, such as the ESG Scorecard, Carbon Footprint Tool, and ratios and key performance indicators to compare companies. (https://frischfinancial.com/blog/metrics-for-measuring-a-companys-esg-practices/)
+
+Although there is still significant work to be done to standardize the collection, analysis, and application of companies’ ESG data, it is becoming clearer that those who do not sufficiently disclose ESG information and improve on the relevant KPIs are becoming the minority and at greater risk of being challenged by investors.
 
 ### **PERFORMANCE**
 * How is your company performing relative to competitors in the same domain?
 
-Yet to be seen.
+As of the writing of this case study, LTSE has not yet signed on an exclusive or dual-listing company. However, track records of early sustainable indexes show comparable and sometimes superior returns versus their traditional market-weighted index counterparts. 
+
+<p align="center">
+<img src="https://image.cnbcfm.com/api/v1/image/106293911-157624370530320191213_sustainable_funds_vs_sp500.png?v=1576243744&w=740&h=416" alt="sustainable-esg-market" width="800"></p>
+
+Take the MSCI KLD 400 Social Index, which selects U.S. companies with high ESG ratings and excludes companies engaging in controversial industries and severe controversies. This benchmark delivered a 6.85% return over the past five years, one full percentage point more on an annualized basis than the MSCI USA IMI Index.[(##)](##-Appenidx)
+
+Additionally, tracking the market share 
+CBOE
+https://markets.cboe.com/us/equities/market_share/
 
 ---
 
@@ -312,11 +378,28 @@ Yet to be seen.
 
 * If you were to advise the company, what products or services would you suggest they offer?
 
+Marketing, PR, and Communications Solutions.
+
+Soft Skills training: Emotional Intelligence, Culture Management, Leadership Development
+
 * Why do you think that offering this product or service would benefit the company?
+
+Social media shift, omni-channel advertising and tracking, fragmented audience segmentation and performance marketing, brand perception, PR & crisis management.
 
 * What technologies would this additional product or service utilize?
 
+cloud-based, AI-powered web content management.  lead management to B2B and account-based marketing
+
+Distributed Marketing: Boost ROI across your distributed organization by streamlining the creation of localized marketing campaigns. 
+
+Cloud-based marketing solutions. Big data and AI enhanced insights on target consumer and industry. A team of humans leveraging these insights to craft meaningful and engaging communications for all stakeholders.
+
 * Why are these technologies appropriate for your solution?
+
+
+
+
+---
 
 ## APPENDIX
 
@@ -334,33 +417,48 @@ Yet to be seen.
 <br>
 (7) [The numbers suggest the green investing ‘mega trend’ is here to stay](https://www.cnbc.com/video/2020/09/10/long-term-stock-exchange-ceo-on-leveraging-sustainable-investing-esg.html?&qsearchterm=long%20term%20stock%20exchange) 
 <br> 
-(8) [BlackRock CEO says the climate crisis is about to trigger ‘a fundamental reshaping of finance’](https://www.cnbc.com/2020/01/14/blackrock-ceo-larry-fink-says-climate-change-will-soon-reshape-markets.html)
+(8) [How the new Long-Term Stock Exchange is leveraging sustainable investing’s meteoric rise](https://www.cnbc.com/2020/02/14/esg-investing-numbers-suggest-green-investing-mega-trend-is-here.html) 
 <br>
-(9)[How the new Long-Term Stock Exchange is leveraging sustainable investing’s meteoric rise](https://www.cnbc.com/2020/02/14/esg-investing-numbers-suggest-green-investing-mega-trend-is-here.html) 
+(9) [BlackRock CEO says the climate crisis is about to trigger ‘a fundamental reshaping of finance’](https://www.cnbc.com/2020/01/14/blackrock-ceo-larry-fink-says-climate-change-will-soon-reshape-markets.html)
 <br>
-(10) [The Impact of Technological Innovation on Exchanges](https://www.sifma.org/resources/general/dec-the-impact-of-technological-innovation-on-exchanges/)
+(10) [‘This is addicting’: How the new retail investor mania is changing the stock market game](https://financialpost.com/investing/how-the-new-retail-investor-mania-is-changing-the-stock-market-game)
 <br>
-(11) [‘This is addicting’: How the new retail investor mania is changing the stock market game](https://financialpost.com/investing/how-the-new-retail-investor-mania-is-changing-the-stock-market-game)
+(11) [How retail investors are beating the pros at their own game](https://www.axios.com/robinhood-effect-young-investors-c4acb5e8-ecc3-4d0d-a193-d125fdf075e4.html)
 <br>
-(12) [How retail investors are beating the pros at their own game](https://www.axios.com/robinhood-effect-young-investors-c4acb5e8-ecc3-4d0d-a193-d125fdf075e4.html)
+(12) [The 10 Essential SaaS Trends You Should Watch Out For In 2020](https://www.datapine.com/blog/saas-trends/)
 <br>
-(!) [The 10 Essential SaaS Trends You Should Watch Out For In 2020](https://www.datapine.com/blog/saas-trends/)
+(13) [The Impact of Technological Innovation on Exchanges](https://www.sifma.org/resources/general/dec-the-impact-of-technological-innovation-on-exchanges/)
 <br>
-($) [ McKinsey Global Institute:
-MEASURING THE ECONOMIC IMPACT OF SHORT-TERMISM](http://integratedreporting.org/wp-content/uploads/2017/03/SPLong-TermismversusShort-termism.pdf)
+(14) [EuroNext ESG Page](https://www.euronext.com/en/about/esg-empowering-sustainable-growth)
 <br>
-(**) [EuroNext About Page](https://www.euronext.com/en/about/our-business)
+(15) [Eric Ries, AMA on Y Combinator](https://news.ycombinator.com/item?id=24420177)
 <br>
-(#) [LTSE Listing Principles](https://longtermstockexchange.com/listings/principles/)
+(16) [Long-Termism Versus Short- Termism: Time for the Pendulum to Shift?](https://integratedreporting.org/resource/sp-global-long-termism-versus-short-termism-time-for-the-pendulum-to-shift/)
 <br>
-(*) [On Heels Of SEC Approval, The Long Term Stock Exchange Raises $50 Million, Filings Show](https://news.crunchbase.com/news/on-heels-of-sec-approval-the-long-term-stock-exchange-raises-50-million-filings-show/)
+(17) [LTSE Listing Principles](https://longtermstockexchange.com/listings/principles/)
 <br>
-(&) [LTSE Services, Inc. SEC Form D](https://www.sec.gov/Archives/edgar/data/1680712/000168071219000002/xslFormDX01/primary_doc.xml)
+(18) [LTSE Group, Inc. SEC Form D](https://www.sec.gov/Archives/edgar/data/1786417/000178641719000001/xslFormDX01/primary_doc.xml)
 <br>
-(&2) [LTSE Services, Inc. SEC Form D](https://www.sec.gov/Archives/edgar/data/1786417/000178641719000001/xslFormDX01/primary_doc.xml)
+(19) [500 Startups ESG Survey Results](https://investorinsights.500.co/founderesgsurvey/)
 <br>
-(^) [Long-Termism Versus Short- Termism: Time for the Pendulum to Shift?](https://integratedreporting.org/resource/sp-global-long-termism-versus-short-termism-time-for-the-pendulum-to-shift/)
+(20) [Millennials Are Driving One Of The Biggest Trends In Wealth Tech](https://www.cbinsights.com/research/impact-investing-millennials-fintech/)
 <br>
-(?) [Eric Ries, AMA on Y Combinator](https://news.ycombinator.com/item?id=24420177)
+(21) [The Sustainability Imperative](https://www.nielsen.com/us/en/insights/report/2015/the-sustainability-imperative-2/)
 <br>
-(;) [LTSE on ZoomInfo](https://www.zoominfo.com/c/long-term-stock-exchange-inc/368206783)
+(22) [McKinsey Global Institute: MEASURING THE ECONOMIC IMPACT OF SHORT-TERMISM](http://integratedreporting.org/wp-content/uploads/2017/03/SPLong-TermismversusShort-termism.pdf)
+<br>
+(23) [On Heels Of SEC Approval, The Long Term Stock Exchange Raises $50 Million, Filings Show](https://news.crunchbase.com/news/on-heels-of-sec-approval-the-long-term-stock-exchange-raises-50-million-filings-show/)
+<br>
+(24) [LTSE Services, Inc. SEC Form D](https://www.sec.gov/Archives/edgar/data/1680712/000168071219000002/xslFormDX01/primary_doc.xml)
+<br>
+(25) [LTSE on ZoomInfo](https://www.zoominfo.com/c/long-term-stock-exchange-inc/368206783)
+<br>
+(26) [LTSE SEC Form 1 Exhibit E, Amendment 1](https://www.sec.gov/rules/other/2019/long-term-stock-exchange/long-term-stock-exchange-exhibit-e-amendment-1.pdf)
+<br>
+(27) [FINRA Updates to ADF User Guide & Specifications](https://www.finra.org/filing-reporting/adf/updates-adf-user-guide-specifications)
+<br>
+(28) [Alternative Display Facility (ADF)](https://www.finra.org/filing-reporting/alternative-display-facililty-adf)
+<br>
+(29) [TRAQS Alternative Display Facility (ADF®) USER GUIDE](https://www.finra.org/sites/default/files/2020-04/TRAQ_ADF_UserGuide.pdf)
+<br>
+(##) [Reshaping sustainable investing: Four forces that we believe will accelerate sustainable index adoption and drive $1 trillion in new assets this decade](https://www.ishares.com/us/literature/whitepaper/reshaping-sustainable-investing-en-us.pdf)
