@@ -41,7 +41,7 @@
 
 ## Overview & Origin
 
- The Long-Term Stock Exchange (LTSE) is an SEC-registered national securities exchange built for companies and investors in every industry who share a long-term vision. LTSE aims not only to influence change within publicly traded companies today, but to bring about a new generation of company leaders who make sustainable business practices a priority. More specifically, LTSE is a Self-Regulatory Organization (SRO), meaning it has the power to create and enforce industry and professional regulations and standards on its own. 
+ The [Long-Term Stock Exchange](https://ltse.com/) (LTSE) is an SEC-registered national securities exchange built for companies and investors in every industry who share a long-term vision. LTSE aims not only to influence change within publicly traded companies today, but to bring about a new generation of company leaders who make sustainable business practices a priority. More specifically, LTSE is a Self-Regulatory Organization (SRO), meaning it has the power to create and enforce industry and professional regulations and standards on its own. 
 
 The Certificate of Incorporation for Long-Term Stock Exchange (LTSE) was originally filed with the Secretary of State of Delaware on July 26, 2017 under the name of Long-Term Stock Exchange, Inc. [(1)](##-Appendix) The LTSE opened for public trading on September 9, 2020.
 
