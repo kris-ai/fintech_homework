@@ -266,7 +266,7 @@ As it pertains to investors, stock churn has been on the rise with annual turnov
 
 ### **TARGET CUSTOMERS**
 
-LTSE's primary customer are private companies seeking to go public that also contain within their core structure guidelines on sustainability, inclusion and diversity, employee treatment, and more. According to SEC filings, LTSE's current software business is currently serving approximately 20,000 users, mostly early stage companies.”[(18)](##-Appendix)] However, there is a massive market opportunity within the shift toward ESGs.
+LTSE's primary customer are private companies seeking to go public that also contain within their core structure guidelines on sustainability, inclusion and diversity, employee treatment, and more. According to SEC filings, LTSE's current software business is currently serving approximately 20,000 users, mostly early stage companies.”[(18)](##-Appendix) However, there is a massive market opportunity within the shift toward ESGs.
 
 [500 Startups](500.co), a leading global venture fund and seed accelerator, surveyed its founder community to get a sense of how the current social, political, and health climate may affect the integration of ESG policies and practices in the startup world, and the potential impact that ESG policies may have on sales, recruitment, and fundraising efforts. One hundred nine startup founders responded to questions about internal ESG views and practices, with 57% of respondents being pre-seed startups with fewer than five employees. 
 
