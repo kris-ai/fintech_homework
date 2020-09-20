@@ -165,8 +165,7 @@ In a letter to CEO's last month, BlackRock CEO, Larry Fink, laid it out plainly,
 When it comes to the consumer, the patterns show a similar uptrend. In 2015, Nielson published its annual Global Corporate Sustainability Report. It indicated that, globally, 66% of consumers are willing to spend more on a product if it comes from a sustainable brand. Millennials gave an even more impressive showing, with 73% of surveyed millennials indicating a similar preference. Additionally, 81% of Millennials even expect their favorite companies to make public declarations of their corporate citizenship. And acccording to findings from the 2015 Cone Communications Millennial Corporate Social Responsibility (CSR) Study, “More than nine-in-10 Millennials would switch brands to one associated with a cause (91% vs. 85% U.S. average), and two-thirds use social media to engage around CSR (66% vs. 53% U.S. average).” [(9.5)](##-Appendix)
 
 <p align="center">
-<img src="https://images.pexels.com/photos/929277/pexels-photo-929277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-" alt="retail-investor" width="800"></p>
+<img src="https://images.pexels.com/photos/929277/pexels-photo-929277.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="retail-investor" width="800"></p>
 
 #### **Rise Of The Retail Investing**
 
@@ -262,8 +261,7 @@ An in-depth look at each of these principles can be found via an LTSE white pape
 As it pertains to investors, stock churn has been on the rise with annual turnover of stocks traded on the NYSE increasing from 36% in 1980 to 63% in 1996, and up to a high of 138% in 2008.[(16)](##-Appendix) On the LTSE, stockholders will be granted more voting power the longer they hold a stock, incentivizing investors to buy in early and keep skin in the game over the long-term in a practice known as Tenure Voting. 
 
 <p align="center">
-<img src="https://born2invest.com/wp-content/uploads/2017/10/How-to-show-investors-proof-of-concept-in-your-business-plan-1024x682.jpg
-" alt="LTSE-target-customer" width="800">
+<img src="https://born2invest.com/wp-content/uploads/2017/10/How-to-show-investors-proof-of-concept-in-your-business-plan-1024x682.jpg" alt="LTSE-target-customer" width="800">
 </p>
 
 ### **TARGET CUSTOMERS**
