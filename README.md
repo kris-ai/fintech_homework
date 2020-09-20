@@ -301,7 +301,7 @@ With software and services for building modern companies and pursuing a path to 
 
 
 <p align="center">
-<img src="https://images.pexels.com/photos/3153201/pexels-photo-3153201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="business-activities" width="800">
+<img src="https://www.ifc.org/wps/wcm/connect/a8f513b3-de51-48e1-b16a-192d98db5542/Funding-BG-1920x750.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-a8f513b3-de51-48e1-b16a-192d98db5542-n6ytqWU" alt="business-funding" width="800">
 </p>
 
 ### **FUNDING**
