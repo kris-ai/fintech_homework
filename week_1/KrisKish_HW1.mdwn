@@ -1,4 +1,6 @@
 ### *Unit 1 Homework Assignment: FinTech Case Study*
+### *Written by: Kris Kish*
+---
 
 # **Case Study:** Long-Term Stock Exchange (LTSE)
 
@@ -22,16 +24,18 @@
 #### 3.4 [Funding](###-TARGET-CUSTOMERS)
 #### 3.5 [Technologies & Implementation](###-TECHNOLOGIES-&-IMPLEMENTATION)
 >### 4. [Results](##-RESULTS)
-#### [Business Impact](###-BUSINESS-IMPACT)
-#### [Core Metrics](###-CORE-METRICS)
-#### [Performance](###-PERFORMANCE)
+#### 4.1 [Business Impact](###-BUSINESS-IMPACT)
+#### 4.2 [Core Metrics](###-CORE-METRICS)
+#### 4.3 [Performance](###-PERFORMANCE)
 >### 5. [Recommendations](##-RECOMMENDATIONS)
->### 4. [Appendix](##-APPENDIX)
+>### 6. [Appendix](##-APPENDIX)
 
 
 ---
 <br>
+<p align="center">
 <img src="https://static.wixstatic.com/media/cd542f_9ea6c785b7c94381bc3fb54cd89e1f09~mv2.png/v1/fill/w_1148,h_968,al_c,q_90/cd542f_9ea6c785b7c94381bc3fb54cd89e1f09~mv2.webp" alt="long-term-stock-exchange" width="800">
+</p>
 
 > # "Modern companies measure progress over decades, not financial quarters."
 
@@ -47,7 +51,9 @@ The Certificate of Incorporation for Long-Term Stock Exchange (LTSE) was origina
 
 LTSE's vision is a public market that supports investment, experimentation, and scaling that companies can use to find continuous success; one that can open the way for innovation and value creation far into the future. [(2)](##-Appendix)
 
+<p align="center">
 <img src="https://miro.medium.com/max/1400/1*MPJD9WihZSvMBOdy7rHpYw.jpeg" alt="the-lean-startup" width="800">
+</p>
 
 ### **COMPANY ORIGIN**
 
@@ -114,7 +120,7 @@ LTSE is first and foremost a software company. While the company sought regulato
 
 LTSE has two overarching software products on the market: LTSE Bridge and LTSE Horizon.
 
-LTSE Bridge is a software platform used by more than 60,000 business builders to manage and forecast key startup resources including people, equity, and cash to build strong, sustainable startups. It includes tools for cap table management, 409A processing, cashflow management, and hiring plan tools. 
+LTSE Bridge is a software platform used by more than 60,000 business builders to manage and forecast key startup resources including people, equity, and cash to build strong, sustainable startups. It includes tools for cap table management, 409A processing, cashflow management, A calculator for exploring the impact of convertible notes and SAFEs on founder ownership, tools for helping employees understand the potential value of their stock options, and hiring plan tools, among others.
 
 <p align="center">
 <img src="https://ltse.com/static/a7e6e66a70b57b2c619f0075801d4d70/bc8e0/scrnsht3.png" alt="the-lean-startup" height="180"> <img src="https://ltse.com/static/599fddbb0ab563dd18601107f4285ec0/bc8e0/options.png" alt="the-lean-startup" height="180"> <img src="https://ltse.com/static/98bd084f32fa311e43648b6101c82e31/bc8e0/scrnsht2.png" alt="the-lean-startup" height="180"></p>
@@ -157,6 +163,10 @@ In a letter to CEO's last month, BlackRock CEO, Larry Fink, laid it out plainly,
 
 <p align="center">
 <img src="https://image.cnbcfm.com/api/v1/image/106291097-157609189521620191211sustainableinvestingsurgetops30trillion.png?v=1576091951&w=740&h=416" alt="sustainable-investing-2018" width="800"></p>
+
+When it comes to the consumer, the patterns show a similar uptrend. In 2015, Nielson published its annual Global Corporate Sustainability Report. It indicated that, globally, 66% of consumers are willing to spend more on a product if it comes from a sustainable brand. Millennials gave an even more impressive showing, with 73% of surveyed millennials indicating a similar preference. Additionally, 81% of Millennials even expect their favorite companies to make public declarations of their corporate citizenship.
+
+According to findings from the 2015 Cone Communications Millennial Corporate Social Responsibility (CSR) Study, “More than nine-in-10 Millennials would switch brands to one associated with a cause (91% vs. 85% U.S. average), and two-thirds use social media to engage around CSR (66% vs. 53% U.S. average).” [(9.5)](##-Appendix)
 
 #### **Rise Of The Retail Investing**
 
@@ -206,6 +216,8 @@ A 2013 survey of more than 1,000 board members and C-suite executives gauging th
 
 Focused on quarterly earnings and growth, companies are pressured for results by stackeholders on a narrow timeline which can cause companies to undermine future economic growth with the lack of long-term investment, ultimately leading to a slowing GDP, higher unemployment levels, and lower future investment returns for savers. Managing a company for the sake of the short-term is counter-intuitive to a philosophy of long-term thinking that research shows contributes to the creation of value over time.
 
+The shift to shareholder primacy has been widely attributed to the development of the “Shareholder Preeminence Theory” by the Chicago School of Economics in the 1970s, with economist Milton Friedman famously arguing that the only “social responsibility of business is to increase its profits.”
+
 The challenge: How do we get net-new ESG qualifying companies into the publicly traded marketplace and influence the mindshare of the next generation of company managers to view long-term principles as a competitive advantage?
 
 ### **SOLUTION**
@@ -230,7 +242,10 @@ Companies that list their shares for sale on the Long-Term Stock Exchange will b
 
 5. Long-term focused companies should engage with their long-term shareholders.[(17)](##-Appendix)
 
-As it pertains to investors, stock churn has been on the rise with annual turnover of stocks traded on the NYSE increasing from 36% in 1980 to 63% in 1996, and up to a high of 138% in 2008.[(16)](##-Appendix) On the LTSE, stockholders will be granted more voting power the longer they hold a stock, incentivizing investors to buy in early and keep skin in the game over the long-term. 
+
+An in-depth look at each of these principles can be found via an LTSE white paper titled ["Building for Generations: Foundations of the LTSE Listing Principles."](https://longtermstockexchange.com/static/principals_for_lt_success_white_paper-52e153e1e0be49bd178f74475f274ef0.pdf)
+
+As it pertains to investors, stock churn has been on the rise with annual turnover of stocks traded on the NYSE increasing from 36% in 1980 to 63% in 1996, and up to a high of 138% in 2008.[(16)](##-Appendix) On the LTSE, stockholders will be granted more voting power the longer they hold a stock, incentivizing investors to buy in early and keep skin in the game over the long-term in a practice known as Tenure Voting. 
 
 ### **TARGET CUSTOMERS**
 
@@ -263,6 +278,8 @@ LTSE leverages these three arms of their business to give their stakeholders and
 
 ### **FUNDING**
 
+Leading financial backers of the LTSE include [Founders Fund](https://foundersfund.com/), [Collaborative Fund](https://www.collaborativefund.com/), [Andreessen Horowitz](https://a16z.com/), [Obvious Ventures](https://obvious.com/), [Uprising Capital](http://www.uprisingcapital.com/), and [Initialized](https://initialized.com/). 
+
 The Long-Term Stock Exchange raised approximately $18.7 million in Series A funding back in July 2016, with Floodgate and the now-inactive Lowercase Capital participating in the round, according to Crunchbase data and SEC disclosures from the time.[(23)](##-Appendix)
 
 More recently, two legal entities which comprise the LTSE filed paperwork with the U.S. Securities and Exchange Commission indicating that the LTSE has raised approximately $50 million in new funding. The first filing was from Delaware-based “LTSE Services, Inc.”, which disclosed $49,738,849 in new funding, sourced from 65 investors.[(24)](##-Appendix) A secondary entity, “LTSE Group, Inc.” disclosed it sold $261,149 worth of equity, also to 65 investors.[(18)](##-Appendix)]
@@ -292,112 +309,119 @@ ADF uses the TRACE Reporting and Quotation Services Web Application, which is de
 LTSE's trading platform is housed in a data center in New Jersey with a copy of its trading platform kept at its secondary site, a data center in Chicago. Both data centers provide a high level of security and availability through redundant and reliable environment control systems such as redundant power supplies, on-site backup generators, and cooling systems.
 
 #### **Software** 
-*(Assumption based on Adobe)*
 
-Project Firefly is a complete framework that enables enterprise developers to build and deploy custom web applications that extend Adobe Experience Cloud solutions and run on Adobe infrastructure. It leverages modern technologies (JAM stack, serverless computing, Node, and React) and ensures best practices when building applications (event-driven architecture, microservices, continuous integration, and delivery).
+Long-Term Stock Exchange has developed a software platform used by more than 60,000 business builders to manage and forecast key startup resources, including people, equity, and cash and to build strong, sustaining startups. In addition, their platform for public companies drives transparency on the IPO process and optimizes the long-term orientation of partners and investors. LTSE's breadth of tools is impressive while the technology engine underlying the platform remains elegantly simple.
 
-From a developer perspective, the main components are:
+Under their LTSE Bridge and Horizon platforms run a suite of tools for business owners, including: [Captable](https://captable.io/), [Fast409A](https://fast409a.io/), [StartupRunway](https://startuprunway.io/), [Hiringplan](https://hiringplan.io/), [StartupDisclosure](https://startupdisclosure.io/), [NoteGenie](https://notegenie.io/), [IPO Ready](https://ipo-ready.com/), and [TLDROptions](https://tldroptions.io/).
 
-    Single Page Application (SPA) - you build a SPA that uses React Spectrum for the client side, which is the same UI toolkit used by Adobe solutions.
+<p align="center">
+<img src="https://miro.medium.com/max/700/1*pqhz4VRNod3ZoVAkHsSFjQ.png" alt="ltse-runway" width="600">
+</p>
 
-    For the backend, you create microservices and orchestrate APIs by leveraging I/O Runtime (Adobe’s serverless platform).
+ As a private entity, LTSE does not publish public information pertaining to their underlying technologies. However, according to information found on their hiring pages for a [Senior Full-Stack Engineer](https://jobs.lever.co/ltse/df07d082-6632-4ebb-9d71-2ccadd0c6855) and [Horizon Data Analyst](https://jobs.lever.co/ltse/76fa7cb8-154c-4e79-abc2-9d070314cf11), LTSE employs a full-stack, from data pipelines, to backend APIs, to the frontend. This includes:
+ 
+ - Statistical coding languages such as Python, R, and Scala, 
+ - Javascript, in conjunction with the React web framework and library
+ - Ruby On Rails
+ - SQL to query relational databases
+ - Data visualization tools using products such as Looker, Tableau, and Data Studio
+ - Implementation of Bloomberg and FactSet financial data sources
 
-    The main developer tools are the CLI, SDKs, Adobe Services and Developer Console. Support for Adobe authentication, end-user access control, publishing/consuming custom events, storing data and files, CI/CD pipelines, CDN, and developer sandboxes are provided out-of-the-box.
+In addition to this, LTSE employs a number of safegaurds to meet the Security & Compliance regulations set forth by entities such as the SEC and GDPR. For data encryption, all access to LTSE is over a secure (SSL encrypted) connection. The same applies for all data sent between LTSE servers on their internal network. LTSE does not store passwords, instead, they store a salted cryptographic hash of a password so that if a database is compromised, all passwords will be secure.[(30)](##-Appendix))
 
-    The execution environment is Adobe Experience Cloud. Your custom apps will be living side-by-side with the Adobe Experience Cloud solutions and will be executed in the context of the organization and its authenticated employees.
+Pertaining to data storage, LTSE performs daily backups of the entire database which are stored offsite and are encrypted using PKI cryptography. Their servers are hosted with Amazon Web Services in multiple US regions.  
 
-    (https://www.adobe.io/content/udp/en/apis/experienceplatform/project-firefly/docs.html#!AdobeDocs/project-firefly/master/overview/what_is.md)
-
-
-
+> ### "Safeguarding equity data for 30,000 venture-backed startups is one of the biggest considerations in everything we do."[(30)](##-Appendix))
 
 ---
+
+<p align="center">
+<img src="https://www.msci.com/documents/1296102/1340870/872x300px-IndexFactsheet-banner-01.jpg/b6056e50-e744-a64d-e7d4-d0ab8fd6fd5e?t=1580315328390" alt="LTSE-business-results" width="800">
+</p>
 
 ## Results
 
 ### **BUSINESS IMPACT**
-* What has been the business impact of this company so far?
 
-At this point in time, LTSE has yet sign an exclusive company to the exchange.
+At the time of this writing, LTSE has yet to sign an exclusive company to the exchange. However, as shown repeatedly throughout this case study, all indicators point to LTSE's combination of software and principle-based exchange being able to provide the jet fuel to propel ESG startups into long-term profitability and sustainable growth. As noted previously, there are already more than 60,000 business builders use LTSE's software platform.
+
+The data shows that strong ESG policies correlate with higher returns. According to a Boston Consulting Group report, diverse teams perform better in the long-term, both in terms of innovation and improved financial performance. The average consumer is showing increasing support for companies with ethical and transparent business practices, including those with a positive environmental impact and sustainable operations and supply chains. Meanwhile, governance and regulatory issues, such as compliance with data privacy laws, can affect companies of all sizes, which means that even at the early stage, awareness of regulations is critical. Outlining policies and building systemic tools related to these issues, such as LTSE has done, can help future-proof smaller companies and put them in a better position to face potential regulatory changes over time.[(31)](##-Appendix)
 
 “We believe that these green stocks could, over time, become some of the world’s most valuable companies — even eclipsing the current technology monopolies as regulation accelerates during the coming decade. Investors should consider tilting their portfolios towards green stocks so they don’t miss this long-term opportunity," says Saxo Bank Head of Equity Strategy Peter Garnry.[(7)](##-Appendix)
 
-ESG risks can vary greatly depending on the company, product, service, or market. However, early-stage investors can play an active role in educating startups about the risks. After all, strong ESG policies correlate with higher returns. According to a Boston Consulting Group report, diverse teams perform better in the long-term, both in terms of innovation and improved financial performance. Consumers increasingly show their support for companies with ethical and transparent business practices, including those with a positive environmental impact and sustainable operations. Meanwhile, governance and regulatory issues, such as compliance with data privacy laws, can affect companies of any size, which means that even at the early stage, awareness of regulations is crucial. Outlining policies related to these issues can help future-proof smaller companies and put them in a better position to face potential regulatory changes over time.(https://www.nasdaq.com/articles/esg-gains-momentum-among-early-stage-startups-2020-07-16)
-
-
-However, the software side of their business has
-
 ### **CORE METRICS**
 
-Broadly speaking, The United Nations Sustainable Development Goals (SDGs), one of the most commonly adopted impact assessment frameworks, represents a general consensus of global stakeholders around 17 ambitious goals. Though responsibility for achieving the SDGs rests primarily with countries that have adopted them, actions by governments alone are not expected to achieve the goals by their target date of 2030. With that in mind, policymakers and the development community have looked to institutional investors and the markets to channel capital in ways that may help to advance sustainable development around the world by 2030.
+Broadly speaking, The United Nations Sustainable Development Goals (SDGs), one of the most commonly adopted impact assessment frameworks, represents a general consensus of global stakeholders around 17 ambitious goals, including areas such as Affordable and Clean Energy, Decent Work and Economic Growth, Responsible Consumption and Production, Industry, Innovation, and Infrastructure, and Climate Action. Though responsibility for achieving the SDGs rests primarily on the countries that have adopted them, it is widely seen that actions by governments alone are not expected to achieve the goals by their target date of 2030. With that in mind, many have looked to institutional investors and the markets to channel capital in ways that may help to advance sustainable development around the world by 2030.
 
 <p align="center">
 <img src="https://i1.wp.com/www.un.org/sustainabledevelopment/wp-content/uploads/2015/12/english_SDG_17goals_poster_all_languages_with_UN_emblem_1.png?fit=728%2C451&ssl=1" alt="sdg-goals" width="800"></p>
 
-While LTSE will hold companies to account based on their codified [5 Principles](###-**SOLUTION**), there is no single entity that sets standards and measures how well a company adheres to those standards. However, there are several third-party entities that rate and evaluate companies based on ESG criteria. 
+While LTSE can legally hold companies to account based on their codified [5 Principles](###-**SOLUTION**), there is currently no single entity that sets and measures how well a company adheres to those standards. However, there are several third-party entities that rate and evaluate companies based on ESG criteria. 
 
 #### *MSCI ESG Ratings*
 
-**MSCI ESG Fund Metrics** rate mutual funds and ETFs based on over 100 fund metrics. These metrics are broken into three categories: sustainable impact, values alignment, and ESG risk. Each metric aims to provide greater transparency and helps measure the environmental, social, and governance characteristics of each investment. Overall ESG scores are then calculated using a weighted average of the underlying holdings, with 0 being the lowest score and 10 being the highest. MSCI’s rating system also gives investors a clearer picture of how a company might perform relative to industry-specific risks and their ability to manage those risks.
+**MSCI ESG Fund Metrics** rate mutual funds and ETFs based on over 100 fund metrics. These metrics are broken into three categories: sustainable impact, values alignment, and ESG risk. Each metric aims to provide greater transparency and helps measure the ESG characteristics of each investment. Overall ESG scores are then calculated using a weighted average of the underlying holdings, with 0 being the lowest score and 10 being the highest. MSCI’s rating system also gives investors a clearer picture of how a company might perform relative to industry-specific risks and their ability to manage those risks.
 
 **MSCI ESG Research** has developed a detailed list of activities, products, and services with positive impact on the society and the environment. The framework, MSCI Sustainable Impact Metrics, is comprised of six Environmental Impact categories and seven Social Impact categories. 
 
-The MSCI Sustainable Impact Metrics can be used as a stand-alone set of metrics that allow investors to measure their exposure to listed companies providing sustainable impact solutions. The metrics can also be applied towards more complex frameworks, such as exposure to companies potentially aligned with the European Union’s Taxonomy of Sustainable Activities, with options for applying minimum ESG standards to minimize exposure to adverse impacts and risk of breaching global norms. The taxonomy of environmentally sustainable solutions leveraged for Sustainable Impact Metrics has also been adapted to evaluate use of proceeds for green bonds and serves as a backbone for the Bloomberg Barclays MSCI Green Bond Index. MSCI Sustainable Impact Metrics is also a core building block of our new and expanded model for evaluating company-level alignment to the SDGs: MSCI SDG Alignment. (https://www.msci.com/our-solutions/esg-investing/impact-solutions)
+The MSCI Sustainable Impact Metrics can be used as a stand-alone set of metrics that allow investors to measure their exposure to listed companies providing sustainable impact solutions. The metrics can also be applied towards more complex frameworks, such as exposure to companies potentially aligned with the European Union’s Taxonomy of Sustainable Activities, with options for applying minimum ESG standards to minimize exposure to adverse impacts and risk of breaching global norms. The taxonomy of environmentally sustainable solutions leveraged for Sustainable Impact Metrics has also been adapted to evaluate use of proceeds for green bonds and serves as a backbone for the Bloomberg Barclays MSCI Green Bond Index. MSCI Sustainable Impact Metrics is also a core building block of our new and expanded model for evaluating company-level alignment to the SDGs: MSCI SDG Alignment.[(32)](##-Appendix)
 
 <p align="center">
 <img src="https://www.msci.com/documents/1296102/20848268/SDG_Company_Landingpage.png/ddf1a086-e931-8e41-d268-cb9e1afe0ffb" alt="sdg-impact-example" width="800"></p>
 
 #### *Morningstar Sustainability Rating for Funds*
 
-One of the more popular sources for independent analysis and evaluations of a variety of investment options, Morningstar also has a variety of tools to evaluate ESG funds. The primary tool, the Morningstar Sustainability Rating, uses ESG analytics from Sustainalytics, a leading provider of ESG research, to calculate how involved a company is with ESG issues, whether they have been involved in any ESG-related controversies and more. Through a series of calculations based on several factors, a company is given a rating between one and five. How Morningstar arrives at these ratings is highly methodical. For those who are interested, they are quite transparent about their methodology, which can be found here.
+[Morningstar](https://www.morningstar.com/), one of the more popular sources for independent analysis and evaluations of a variety of investment options, also has a variety of tools to evaluate ESG funds. The primary tool, the *Morningstar Sustainability Rating*, uses ESG analytics from [Sustainalytics](http://www.sustainalytics.com/), a leading provider of ESG research, to calculate how involved a company is with ESG issues, whether they have been involved in any ESG-related controversies and more. Through a series of calculations based on several factors, a company is given a rating between one and five. Morningstar arrives at these ratings through a highly methodical approach using a variety of tools, explained more via this [in-depth white paper](https://www.morningstar.com/content/dam/marketing/shared/research/methodology/744156_Morningstar_Sustainability_Rating_for_Funds_Methodology.pdf).
 
 #### *Bloomberg’s ESG Analysis*
 
-By studying 20,000+ companies and using the ESG data disclosed from more than 9,100 companies, Bloomberg has composed an in-depth database to give the public information on ESG practices. This information can tell investors about everything from gender diversity on the board to emission standards. What’s useful is the variety of tools they have developed to give a snapshot into a company’s practices, such as the ESG Scorecard, Carbon Footprint Tool, and ratios and key performance indicators to compare companies. (https://frischfinancial.com/blog/metrics-for-measuring-a-companys-esg-practices/)
+By compiling and studying data from than 11,500 comapnies in 83 countries, Bloomberg has composed an in-depth database on ESG practices that spans 1,170 data fields. This information can tell investors about everything from gender diversity on the board to emission standards. What’s useful is the variety of tools they have developed to give a snapshot into a company’s practices, such as the ESG Scorecard, Carbon Footprint Tool, and ratios and key performance indicators to compare companies. [(33)](##-Appendix)
 
 Although there is still significant work to be done to standardize the collection, analysis, and application of companies’ ESG data, it is becoming clearer that those who do not sufficiently disclose ESG information and improve on the relevant KPIs are becoming the minority and at greater risk of being challenged by investors.
 
 ### **PERFORMANCE**
-* How is your company performing relative to competitors in the same domain?
 
 As of the writing of this case study, LTSE has not yet signed on an exclusive or dual-listing company. However, track records of early sustainable indexes show comparable and sometimes superior returns versus their traditional market-weighted index counterparts. 
 
 <p align="center">
 <img src="https://image.cnbcfm.com/api/v1/image/106293911-157624370530320191213_sustainable_funds_vs_sp500.png?v=1576243744&w=740&h=416" alt="sustainable-esg-market" width="800"></p>
 
-Take the MSCI KLD 400 Social Index, which selects U.S. companies with high ESG ratings and excludes companies engaging in controversial industries and severe controversies. This benchmark delivered a 6.85% return over the past five years, one full percentage point more on an annualized basis than the MSCI USA IMI Index.[(##)](##-Appenidx)
+Take the MSCI KLD 400 Social Index, which selects U.S. companies with high ESG ratings and excludes companies engaging in controversial industries and severe controversies. This benchmark delivered a 6.85% return over the past five years, one full percentage point more on an annualized basis than the MSCI USA IMI Index.[(34)](##-Appendix)
 
-Additionally, tracking the market share 
-CBOE
-https://markets.cboe.com/us/equities/market_share/
+Data is available, however, on trading volumes since the LTSE has been open for trading (September 9, 2020). According to the Cboe U.S. Equities Market Volume Summary, LTSE has totaled 411,951 market trades since the opening bell on September 9, 2020.[(35)](##-Appendix)
+
+> "LTSE will not be, and was never intended to be, just another exchange. Our listing standards and company goals represent our commitment to supporting companies who pursue long-term strategies and growth, while considering a broader group of stakeholders and the critical role they play in one another’s success. At the same time, we operate as part of the national market system, and we take our role in that system responsibly. Our focus is on building a platform for companies and investors alike for not only the present, but also for the future. We hope to be leaders in demonstrating  the value from the ability of companies to source patient capital and operationalize resilience for the long term." -Dan Amar, LTSE Head of Trading and Market Operations [(36)](##-Appendix)
 
 ---
 
-
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer?
+The Long-Term Stock Exchange offers a full pipeline of products and services for startups with less than five employees to pre-IPO unicorns. However, my recommendation is that LTSE develop and incorporate a fully integrated Marketing, data-driven PR, and Communications solution for their user base. In addition, LTSE should implement a program and/or information base where C-Suite, executives, and employess alike can learn and be trained in Soft Skills such as Emotional Intelligence, Culture Management, Crisis Management & De-Escalation, and Team & Leadership Development.
 
-Marketing, PR, and Communications Solutions.
+Outside of the tech stack, as it pertains to company challenges, the proper use and implementation of communications campaigns and a highly strategized Public Relations system is vital to overall growth and future development. For startups, one of the main goals is to grow their audience and increase brand awareness (and thus, revenue). On the other hand, the worst thing a startup can do it to go out prematurely and receive negative press. For public companies, a clear, concise, and effective press release (or lack thereof) can drive a stock price up or down within minutes of publishing. Even Bill Gates once said, “If I had one dollar left, I would spend it on PR.”
 
-Soft Skills training: Emotional Intelligence, Culture Management, Leadership Development
+The marketing landscape is shifting every week. From the newest social media platforms and omni-channel advertising and tracking to audience segmentation and performance marketing, it can be overwhelming to know where to start and how to spend those all-important marketing dollars.
 
-* Why do you think that offering this product or service would benefit the company?
-
-Social media shift, omni-channel advertising and tracking, fragmented audience segmentation and performance marketing, brand perception, PR & crisis management.
-
-* What technologies would this additional product or service utilize?
-
-cloud-based, AI-powered web content management.  lead management to B2B and account-based marketing
-
-Distributed Marketing: Boost ROI across your distributed organization by streamlining the creation of localized marketing campaigns. 
-
-Cloud-based marketing solutions. Big data and AI enhanced insights on target consumer and industry. A team of humans leveraging these insights to craft meaningful and engaging communications for all stakeholders.
-
-* Why are these technologies appropriate for your solution?
+These types of services could be folded directly into their currently existing tech stack. Implementation of data driven PR can be accomplished through real-time behavior tracking through the company’s website, direct feedback collected from customers and business, and via technology that tracks brand mentions and sentiment. LTSE can implement this cloud-based, AI-powered content and data management through their partnership with AWS. 
 
 
+<p align="center">
+<img src="https://www.earnedmediarising.com/wp-content/uploads/sites/8/2019/02/sources-t.jpg" alt="marketing-channels" width="800">
+</p>
 
+The World Economic Forum Future of Jobs report suggested that by 2020, complex problem-solving, critical thinking, creativity, people management and emotional intelligence would be among the most important skills required in the workplace.[(37)](##-Appendix) A new study by researchers from Boston College, Harvard University, and the University of Michigan found that soft skills training, like communication and problem-solving, boosts productivity and retention by 12% and delivers a 250% return on investment based on higher productivity and retention. In addition, a study by Deloitte Access Economics, predicts that two-thirds of all jobs in Australia will rely on soft skills by 2030.[(38)](##-Appendix)
+
+Alexandra Levit, author of “Humanity Works,” wrote for [TrainingIndustry.com](www.TrainingIndustry.com), “In a business climate dominated by human/machine collaboration,” the skills that make us human are more important than ever. Similarly, Doug Harward and Ken Taylor of Training Industry, Inc. wrote, “While technology is helping lead innovation, developing our soft skills is necessary to stay relevant, communicate value and supplement those important technical skills.” Unfortunately, Levit says, many organizations are still focusing on technical skills, and ignoring or minimizing soft skills, especially if they feel their technical talent isn’t competitive with other organizations in their industry.[(38)](##-Appendix)
+
+According to Michael Jarrett, INSEAD Professor of Organizaitonal Behavior, writing in the INSEAD publication, “the prevailing arguments used to explain success or failure mostly concern the CEOs’ personalities, especially transformational leadership characteristics, such as passion, risk-taking and tenacity. The failures are believed to be due to simple incompetence, rigidity, hubris or narcissism, traits that made the CEOs deaf to the changing world around them.” He goes on to say that a string of success or a good early start can fuel CEO narcissism and hubris. According to Sydney Finkelstein, author of Why Smart Executives Fail, researched several spectacular failures during a six year period. He concluded that these CEOs had similar deadly habits.[(38)](##-Appendix)
+
+<p align="center">
+<img src="https://miro.medium.com/max/700/1*wlGg81KrmTQUfBTJ6-Z_vA.png" alt="soft-skills" height="400"> <img src="https://miro.medium.com/max/700/1*xT8A8t3iYwv_VjY6MSkFLA.png" alt="top-10-skills" height="400">
+</p>
+
+While not a high technology solution, soft skills training can be implemented at scale via the recent rise of cloud-based communications platforms such as Zoom Video and Citrix. Online classes and trainings can be offered via LTSE's software platform and communicated to current customers through the recommended data-driven PR communications system, using AI to customize tailored offerings based on client needs. 
+
+A combination of data-driven technical communication solutions paired with human-centric soft skills provides a synergistically ideal relationship for LTSE to implement as it perfectly mirrors the marketplace in which it looks to succeed. Stock exchanges are driven by technological algorithms and brand perception as well as human emotion. The ability to excel in all three of these domains is critical to marketplace success. With the implementation of these recommendations into their pre-existing software platforms, LTSE would be the preeminate organziation to take socially responsible and ESG focused startups and companies into the next generation of sustainable marketplaces and economies.
 
 ---
 
@@ -420,6 +444,8 @@ Cloud-based marketing solutions. Big data and AI enhanced insights on target con
 (8) [How the new Long-Term Stock Exchange is leveraging sustainable investing’s meteoric rise](https://www.cnbc.com/2020/02/14/esg-investing-numbers-suggest-green-investing-mega-trend-is-here.html) 
 <br>
 (9) [BlackRock CEO says the climate crisis is about to trigger ‘a fundamental reshaping of finance’](https://www.cnbc.com/2020/01/14/blackrock-ceo-larry-fink-says-climate-change-will-soon-reshape-markets.html)
+<br>
+(9.5) [Corporate Social Responsibility Matters: Ignore Millennials at Your Peril](https://www.huffpost.com/entry/corporate-social-responsi_9_b_9155670)
 <br>
 (10) [‘This is addicting’: How the new retail investor mania is changing the stock market game](https://financialpost.com/investing/how-the-new-retail-investor-mania-is-changing-the-stock-market-game)
 <br>
@@ -461,4 +487,20 @@ Cloud-based marketing solutions. Big data and AI enhanced insights on target con
 <br>
 (29) [TRAQS Alternative Display Facility (ADF®) USER GUIDE](https://www.finra.org/sites/default/files/2020-04/TRAQ_ADF_UserGuide.pdf)
 <br>
-(##) [Reshaping sustainable investing: Four forces that we believe will accelerate sustainable index adoption and drive $1 trillion in new assets this decade](https://www.ishares.com/us/literature/whitepaper/reshaping-sustainable-investing-en-us.pdf)
+(30) [Captable.io Security & Compliance](https://support.captable.io/article/146-security-compliance)
+<br>
+(31) [ESG Gains Momentum Among Early-Stage Startups](https://www.nasdaq.com/articles/esg-gains-momentum-among-early-stage-startups-2020-07-16)
+<br>
+(32) [MSCI Impact Solutions](https://www.msci.com/our-solutions/esg-investing/impact-solutions)
+<br>
+(33) [Bloomberg Impact](https://www.bloomberg.com/impact/)
+<br>
+(34) [Reshaping sustainable investing: Four forces that we believe will accelerate sustainable index adoption and drive $1 trillion in new assets this decade](https://www.ishares.com/us/literature/whitepaper/reshaping-sustainable-investing-en-us.pdf)
+<br>
+(35) [Cboe U.S. Equities Market Volume Summary](https://markets.cboe.com/us/equities/market_share/market/2020-09-18/)
+<br>
+(36) [TRADERS Q&A: Dan Amar, Long Term Stock Exchange](https://www.marketsmedia.com/traders-qa-dan-amar-long-term-stock-exchange/)
+<br>
+(37) [The Importance of Soft Skills](https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/)
+<br>
+(38) [](https://medium.com/@raybwilliams/the-growing-importance-of-soft-skills-in-the-workplace-8c452c7c8647)
